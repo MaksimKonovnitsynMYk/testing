@@ -1,0 +1,9 @@
+<suite name="regression">     
+     <test name="loginTest">    
+          <parameter name="username" value="techfiosdemo@gmail.com" />   
+          <parameter name="password" value="abc213" />
+          <classes>
+                  <class name="test.loginTest" />
+          </classes>
+     </test>
+</suite>
